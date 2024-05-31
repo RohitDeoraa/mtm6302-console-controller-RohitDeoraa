@@ -7,3 +7,8 @@ step 1 : go to settings of your repo and ckick on collobrators and add thr collo
 step 2 : open gitbash and then use command: $ git clone https://github.com/RohitDeoraa/mtm6302-console-controller-RohitDeora
 
 ![image](https://github.com/RohitDeoraa/mtm6302-console-controller-RohitDeoraa/assets/170676883/c1f24063-98b0-446c-bef5-6864c87cfa1b)
+
+step-3: ADDED FILE BY GIT ADD AND THAN COMMIT IT
+
+![image](https://github.com/RohitDeoraa/mtm6302-console-controller-RohitDeoraa/assets/170676883/1458977c-f599-4a47-b114-6b57328571eb)
+
