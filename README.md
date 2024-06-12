@@ -11,4 +11,5 @@ step 2 : open gitbash and then use command: $ git clone https://github.com/Rohit
 step-3: ADDED FILE BY GIT ADD AND THAN COMMIT IT
 
 ![image](https://github.com/RohitDeoraa/mtm6302-console-controller-RohitDeoraa/assets/170676883/1458977c-f599-4a47-b114-6b57328571eb)
-
+AFTER THAT AGAIN I HAVE MADE CHANGES IN THE CODE MY ADDING HEADIND AND PARAGRAPH TAG IN THE HTML AND ALSO DONE THE CSS PART
+AGAIN IT COMMIT THE CHANGES AHD PUSH THE FILES IN GITHUB.
